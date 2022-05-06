@@ -1,26 +1,10 @@
-# Hardhat Hackathon Boilerplate
+# Poll Dapp
 
-This repository contains a sample project that you can use as the starting point
-for your Ethereum project. It's also a great fit for learning the basics of
-smart contract development.
-
-This project is intended to be used with the
-[Hardhat Beginners Tutorial](https://hardhat.org/tutorial), but you should be
-able to follow it by yourself by reading the README and exploring its
-`contracts`, `tests`, `scripts` and `frontend` directories.
+This repository contains a Web3 Dapp project where users vote in a Poll. This project used the Hardhat Hackathon Boilerplate as a base, and the files were modified to achieve the desired perfromance. This project is strictly for personal development in the Solidity/React environment.
 
 ## Quick start
 
-The first things you need to do are cloning this repository and installing its
-dependencies:
-
-```sh
-git clone https://github.com/nomiclabs/hardhat-hackathon-boilerplate.git
-cd hardhat-hackathon-boilerplate
-npm install
-```
-
-Once installed, let's run Hardhat's testing network:
+To  run the Dapp
 
 ```sh
 npx hardhat node
@@ -78,12 +62,3 @@ Your environment will have everything you need to build a Dapp powered by Hardha
   console, try resetting your Metamask account. This will reset the account's
   transaction history and also the nonce. Open Metamask, click on your account
   followed by `Settings > Advanced > Reset Account`.
-
-## Feedback, help and news
-
-We'd love to have your feedback on this tutorial. Feel free to reach us through
-this repository or [our Discord server](https://invite.gg/HardhatSupport).
-
-Also you can [follow us on Twitter](https://twitter.com/HardhatHQ).
-
-**Happy _building_!**
