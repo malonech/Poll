@@ -1,7 +1,6 @@
 # Sample React Dapp
 
-This directory has a sample Dapp to interact with your contracts, built using
-React.
+This directory has the frontend code for the polling Dapp, which interacts with the backend polling smart contracts. It is build with React.
 
 ## Running the Dapp
 
